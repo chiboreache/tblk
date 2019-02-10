@@ -1,2 +1,5 @@
 # tblk
-lblk wrapper writed on python, with SIZE and UIID in one place on CLI table
+
+_lsblk_ cli util wrapper, written in python, with **SIZE** and **UUID** columns in one place.
+
+![image of actual CLI table](./img/scr.png)
